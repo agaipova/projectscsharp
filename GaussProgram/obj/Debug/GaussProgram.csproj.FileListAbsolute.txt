@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\bin\Debug\GaussProgram.exe.config
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\bin\Debug\GaussProgram.exe
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\bin\Debug\GaussProgram.pdb
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\obj\Debug\GaussProgram.Form1.resources
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\obj\Debug\GaussProgram.Properties.Resources.resources
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\obj\Debug\GaussProgram.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\obj\Debug\GaussProgram.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\obj\Debug\GaussProgram.exe
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\obj\Debug\GaussProgram.pdb
+C:\Users\artem\source\repos\GaussProgram\GaussProgram\obj\Debug\GaussProgram.csproj.AssemblyReference.cache
