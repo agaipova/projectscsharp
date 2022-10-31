@@ -1,0 +1,7 @@
+C:\Users\artem\Desktop\Projects\V24\bin\Debug\V24.exe.config
+C:\Users\artem\Desktop\Projects\V24\bin\Debug\V24.exe
+C:\Users\artem\Desktop\Projects\V24\bin\Debug\V24.pdb
+C:\Users\artem\Desktop\Projects\V24\obj\Debug\V24.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Projects\V24\obj\Debug\V24.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Projects\V24\obj\Debug\V24.exe
+C:\Users\artem\Desktop\Projects\V24\obj\Debug\V24.pdb

@@ -1,0 +1,7 @@
+C:\Users\artem\Desktop\Projects\V11\obj\Debug\V11.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Projects\V11\obj\Debug\V11.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Projects\V11\bin\Debug\V11.exe.config
+C:\Users\artem\Desktop\Projects\V11\bin\Debug\V11.exe
+C:\Users\artem\Desktop\Projects\V11\bin\Debug\V11.pdb
+C:\Users\artem\Desktop\Projects\V11\obj\Debug\V11.exe
+C:\Users\artem\Desktop\Projects\V11\obj\Debug\V11.pdb

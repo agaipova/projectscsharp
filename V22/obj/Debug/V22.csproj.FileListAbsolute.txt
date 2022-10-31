@@ -1,0 +1,7 @@
+C:\Users\artem\Desktop\Projects\V22\bin\Debug\V22.exe.config
+C:\Users\artem\Desktop\Projects\V22\bin\Debug\V22.exe
+C:\Users\artem\Desktop\Projects\V22\bin\Debug\V22.pdb
+C:\Users\artem\Desktop\Projects\V22\obj\Debug\V22.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Projects\V22\obj\Debug\V22.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Projects\V22\obj\Debug\V22.exe
+C:\Users\artem\Desktop\Projects\V22\obj\Debug\V22.pdb

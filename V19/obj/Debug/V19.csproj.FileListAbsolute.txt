@@ -1,0 +1,7 @@
+C:\Users\artem\Desktop\Projects\V19\bin\Debug\V19.exe.config
+C:\Users\artem\Desktop\Projects\V19\bin\Debug\V19.exe
+C:\Users\artem\Desktop\Projects\V19\bin\Debug\V19.pdb
+C:\Users\artem\Desktop\Projects\V19\obj\Debug\V19.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Projects\V19\obj\Debug\V19.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Projects\V19\obj\Debug\V19.exe
+C:\Users\artem\Desktop\Projects\V19\obj\Debug\V19.pdb
